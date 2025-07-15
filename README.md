@@ -10,3 +10,10 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+## Set configuration file 
+$ git config --global user.email 'flugaoveltem@outlook.com'
+
+$ git config --global user.name 'flugaoveltem@outlook.com'
+
+# to set your account default 
+omit --global to set the idendity only in this repository
