@@ -17,3 +17,5 @@ $ git config --global user.name 'flugaoveltem@outlook.com'
 
 # to set your account default 
 omit --global to set the idendity only in this repository
+
+alter with vs code
