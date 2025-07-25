@@ -19,3 +19,13 @@ $ git config --global user.name 'flugaoveltem@outlook.com'
 omit --global to set the idendity only in this repository
 
 alter with vs code
+
+# CodeBuild spec
+version: 0.2
+phases:
+    build:
+        commands:
+            - npm i --save
+artifacts:
+    files:
+        - '**/*'
