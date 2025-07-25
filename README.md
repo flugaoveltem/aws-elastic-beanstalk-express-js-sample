@@ -29,3 +29,6 @@ phases:
 artifacts:
     files:
         - '**/*'
+
+# Or install package in standoalone
+"npm i --save"
